@@ -1,0 +1,8 @@
+Flask>=1.0,<=1.1.2
+simplejson
+pyodbc
+gunicorn
+BeautifulSoup4
+requests
+wheel
+tiingo
